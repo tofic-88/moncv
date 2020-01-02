@@ -16,7 +16,7 @@
             <img src="<?php echo get_theme_file_uri('images/la.jpg') ?>" alt="Los Angeles">
                  <div class="carousel-caption">
                     <h1>Los Angeles</h1>
-                    <p>We had such a great time in LA!</p>
+                    <p>I USE GIT NOW BE HAPPY</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -30,7 +30,7 @@
             <img src="<?php echo get_theme_file_uri('images/ny.jpg') ?>" alt="New York">
                  <div class="carousel-caption">
                     <h1>Rome</h1>
-                    <p>Rome is historique city</p>
+                    <p>Rome ETERBEL CITY</p>
                 </div>
             </div>
         </div>
