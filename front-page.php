@@ -51,7 +51,7 @@
 
 <section class="lebas-carousel-container">
     <div class="lebas-carousel">
-    <h1>INTÉGRATEUR WEB / DÉVELOPPEUR WORDPRESS</h1>
+    <h1>INTÉGRATEUR & DÉVELOPPEUR WORDPRESS </h1>
     <h4>Mr MEHRAZI TAWFIK</h4>
     </div>
 </section>
